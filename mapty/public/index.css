@@ -1,0 +1,52 @@
+.map {
+    flex: 1;
+    display: flex;
+    height: 97vh
+}
+
+.entries {
+    background-color: #2d3439;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 40%;
+}
+
+.map-side {
+    background-color: lightgray;
+    width: 60%
+}
+
+.mapty-logo {
+    height: 30%;
+    margin-top: 15%;
+}
+
+.ul {
+    margin-top: -6%;
+    width: 70%;
+    height: 100%;
+}
+
+.form {
+    /* display: flex;
+    flex-direction: column; */
+}
+
+.select {
+    width: 46.8%;
+}
+
+.input {
+    width: 45%;
+}
+
+.group {
+    display: flex;
+    justify-content: space-between;
+}
+
+label {
+    color: white;
+}
